@@ -1,4 +1,4 @@
-states = ["Lagos", "sokoto"]
+states = ["Lagos", "Sokoto"]
 Dict = {(states[0], states[1]): 2}
 
 
